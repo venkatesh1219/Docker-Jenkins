@@ -1,15 +1,14 @@
 # Docker-Jenkins
-Simple Java Application Build the code Docker image push to Dockerhub account using jenkins 
+Simple django Application pubish to dockerhub account and push to aws ec2 instance 
 
 
 
 
 
 
-![Docker-Jenkins drawio](https://github.com/venkatesh1219/Docker-Jenkins-node-js/assets/125198619/ec74b215-88a4-46d5-881f-bd50f6f02861)
+![Docker-Jenkins-ec2 drawio](https://github.com/venkatesh1219/Docker-Jenkins-django/assets/125198619/c165c2d6-d796-4e28-851e-4b124c4a6f44)
 
 
 
-****pre-requisites :****
 
-    1. 
+
