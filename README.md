@@ -1,5 +1,10 @@
 # Docker-Jenkins-django
-simple devops Docker image push to dockerhub account using jenkins 
+simple devops project 1 :
+
+When developers develop the application, they build the Docker image using Jenkins and push it to the Dockerhub account using Jenkins, and git webhooks trigger the job.
 
 
-![Screenshot from 2023-11-20 15-59-33](https://github.com/venkatesh1219/Docker-Jenkins-django/assets/125198619/6bf59e8f-fc87-48af-ab0e-d3ed9c9c5155)
+![Screenshot from 2023-11-20 16-18-56](https://github.com/venkatesh1219/Docker-Jenkins-django/assets/125198619/198aab7f-9eef-44a7-a17e-ee432e00daea)
+
+
+
